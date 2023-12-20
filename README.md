@@ -47,27 +47,27 @@ In light of Company Y's recent substantial growth, there is a noticeable awarene
 
 **Insights**
 
-We have a total of 5000 calls. 81% of the calls are answered and 73% of those problems from the calls are solved. 
-Abandoned Calls Rate: 19%. This means 19% of the calls are not picked up in the first calls or cannot reach onwards. Since this dataset does not mention the times the agent calls the customers, I will assume this rate is also the first call resolution rate. 
-The average CSAT score is 3.4 which is above average, however, it doesn’t reach the target CSAT score - 4.5. 
-Streaming is the issue that has the highest number of answered (847 calls) and resolved calls (749 calls). In reverse, technical support has the highest number of abandoned (214 calls) and not resolved calls (283 calls). 
-Top 3 topics with most calls: 
-Streaming  - 1022 calls
-Technical support - 1019 calls
-Payment related - 1007 calls
-Customers having Admin Support issues own the highest average CSAT score (3.43) 
-The customer care call team receives the most answered and resolved calls in January (1455 vs 1311 calls), then March (1301 vs 1174 calls), and the last with the least calls is February (1298 vs 1161 calls). 
-Jim is the agent who has the most calls (666 calls) with the highest number of answered calls (536 calls). However, Jim has the highest calls with a CSAT score in the range of 1 - 2 which is considered Not Satisfied status for customers. 
-Martha has the highest CSAT score which is 3.47 compared to Jim who has 3.39 - still an acceptable score. Martha owns the biggest total calls that have a score range from 4 - 5 which is considered as Satisfied calls for customers. 
-Joe has the lowest CSAT score which is 3.33 and is the second agent who has the lowest number of total calls (593 calls) 
-Dan is the agent having the highest average talk duration (3.33 minutes)
-Joe has the longest average speed of answering customers (57.9 seconds). 
+- We have a total of 5000 calls. 81% of the calls are answered and 73% of those problems from the calls are solved. 
+- Abandoned Calls Rate: 19%. This means 19% of the calls are not picked up in the first calls or cannot reach onwards. Since this dataset does not mention the times the agent calls the customers, I will assume this rate is also the first call resolution rate. 
+- The average CSAT score is 3.4 which is above average, however, it doesn’t reach the target CSAT score - 4.5. 
+- Streaming is the issue that has the highest number of answered (847 calls) and resolved calls (749 calls). In reverse, technical support has the highest number of abandoned (214 calls) and not resolved calls (283 calls). 
+- Top 3 topics with most calls: 
+	+ Streaming  - 1022 calls
+	+ Technical support - 1019 calls
+	+ Payment related - 1007 calls
+- Customers having Admin Support issues own the highest average CSAT score (3.43) 
+- The customer care call team receives the most answered and resolved calls in January (1455 vs 1311 calls), then March (1301 vs 1174 calls), and the last with the least calls is February (1298 vs 1161 calls). 
+- Jim is the agent who has the most calls (666 calls) with the highest number of answered calls (536 calls). However, Jim has the highest calls with a CSAT score in the range of 1 - 2 which is considered Not Satisfied status for customers. 
+- Martha has the highest CSAT score which is 3.47 compared to Jim who has 3.39 - still an acceptable score. Martha owns the biggest total calls that have a score range from 4 - 5 which is considered as Satisfied calls for customers. 
+- Joe has the lowest CSAT score which is 3.33 and is the second agent who has the lowest number of total calls (593 calls) - 
+- Dan is the agent having the highest average talk duration (3.33 minutes)
+- Joe has the longest average speed of answering customers (57.9 seconds). 
 
 
 
 
 **Recommendation**
 			
-Company Y should focus on improving the Streaming, Technical Support, and Payment-related issues. First priority should be Streaming, even though most of the cases from this issue are solved. 
-Joe should be working on improving his skills on how to make customers more satisfied since he has the lowest CSAT score out of 8 agents. 
-Dive deeper into collecting information regarding why the Customer Call team receives most of the calls in January 
+- Company Y should focus on improving the Streaming, Technical Support, and Payment-related issues. First priority should be Streaming, even though most of the cases from this issue are solved. 
+- Joe should be working on improving his skills on how to make customers more satisfied since he has the lowest CSAT score out of 8 agents. 
+- Dive deeper into collecting information regarding why the Customer Call team receives most of the calls in January 
